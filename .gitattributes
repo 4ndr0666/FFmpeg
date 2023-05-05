@@ -8,3 +8,4 @@ presets/* filter=lfs diff=lfs merge=lfs -text
 /run/media/andro/Kodi/Kodi/TopazVideoAIBETA/include/* filter=lfs diff=lfs merge=lfs -text
 /run/media/andro/Kodi/Kodi/TopazVideoAIBETA/lib/* filter=lfs diff=lfs merge=lfs -text
 /run/media/andro/Kodi/Kodi/TopazVideoAIBETA/presets/* filter=lfs diff=lfs merge=lfs -text
+bin/Topaz[[:space:]]Video[[:space:]]AI[[:space:]]BETA filter=lfs diff=lfs merge=lfs -text
