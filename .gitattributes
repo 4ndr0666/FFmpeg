@@ -3,3 +3,8 @@ include/* filter=lfs diff=lfs merge=lfs -text
 lib/* filter=lfs diff=lfs merge=lfs -text
 models/* filter=lfs diff=lfs merge=lfs -text
 presets/* filter=lfs diff=lfs merge=lfs -text
+/run/media/andro/Kodi/Kodi/TopazVideoAIBETA/models/* filter=lfs diff=lfs merge=lfs -text
+/run/media/andro/Kodi/Kodi/TopazVideoAIBETA/bin/* filter=lfs diff=lfs merge=lfs -text
+/run/media/andro/Kodi/Kodi/TopazVideoAIBETA/include/* filter=lfs diff=lfs merge=lfs -text
+/run/media/andro/Kodi/Kodi/TopazVideoAIBETA/lib/* filter=lfs diff=lfs merge=lfs -text
+/run/media/andro/Kodi/Kodi/TopazVideoAIBETA/presets/* filter=lfs diff=lfs merge=lfs -text
