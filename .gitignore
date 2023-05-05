@@ -1,0 +1,26 @@
+# Ignore compiled files
+*.o
+*.so
+*.dll
+*.exe
+*.out
+
+# Ignore cache files
+*.cache
+*.pyc
+__pycache__
+
+# Ignore logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore temporary files
+*.swp
+*.swo
+*.swn
+*.tmp
+*~
